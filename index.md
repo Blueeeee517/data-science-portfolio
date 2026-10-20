@@ -1,7 +1,7 @@
-# Blueeeee517
+# XIAN QILAN
 
 ## Introduction
-Hello, I am Blueeeee517. I am learning data science and building my portfolio through practical projects. This portfolio showcases my data analysis work.
+Hello, I am XIAN QILAN. I am learning data science and building my portfolio through practical projects. This portfolio showcases my data analysis work.
 
 ## Technical Skills
 - Python
